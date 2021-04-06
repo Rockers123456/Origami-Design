@@ -1,0 +1,16 @@
+h1 {
+    color:#cf9fff;
+}
+.header *{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    border: solid;
+}
+body{
+    background-color: #1F51FF;
+}
+a:link{
+    color: red;
+}
+
